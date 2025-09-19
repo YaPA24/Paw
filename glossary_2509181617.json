@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "version": "14.15",
+    "last_updated": "2025-09-17T21:05:30.630Z",
+    "editor": "Ваше Имя",
+    "total_terms": 11
+  },
+  "terms": [
+    {
+      "original": "低级",
+      "translations": {
+        "nominative": "Обычный",
+        "genitive": "Обычного"
+      },
+      "category": "",
+      "type": "",
+      "foundIn": "",
+      "notes": "Базовый уровень качества"
+    },
+    {
+      "id": "ql_002",
+      "original": "精良级",
+      "category": "quality_level",
+      "translations": {
+        "nominative": "Качественный",
+        "genitive": "Качественного"
+      },
+      "source": {
+        "file": "e-text-025.txt",
+        "line": 22
+      }
+    },
+    {
+      "id": "ql_003",
+      "original": "卓越级",
+      "category": "quality_level",
+      "translations": {
+        "nominative": "Превосходный",
+        "genitive": "Превосходного"
+      },
+      "source": {
+        "file": "e-text-040.txt",
+        "line": 8
+      }
+    },
+    {
+      "id": "mat_001",
+      "original": "铁",
+      "category": "material",
+      "translations": {
+        "nominative": "Железо",
+        "genitive": "Железного"
+      },
+      "source": {
+        "file": "e-text-025.txt",
+        "line": 22
+      }
+    },
+    {
+      "id": "mat_002",
+      "original": "木",
+      "category": "material",
+      "translations": {
+        "nominative": "Дерево",
+        "genitive": "Деревянного"
+      },
+      "source": {
+        "file": "e-text-030.txt",
+        "line": 15
+      }
+    },
+    {
+      "original": "签到",
+      "translations": {
+        "nominative": "Чек-ин",
+        "genitive": "Чек-ина"
+      },
+      "category": "name",
+      "type": "item",
+      "foundIn": "",
+      "notes": ""
+    },
+    {
+      "id": "bt_002",
+      "original": "小木屋",
+      "category": "base_type",
+      "type": "item",
+      "translations": {
+        "nominative": "Деревянный домик",
+        "genitive": "Деревянного домика"
+      },
+      "source": {
+        "file": "e-text-015.txt",
+        "line": 12
+      }
+    },
+    {
+      "id": "bt_003",
+      "original": "升级石",
+      "category": "base_type",
+      "type": "resource",
+      "translations": {
+        "nominative": "Камень улучшения",
+        "genitive": "Камня улучшения"
+      },
+      "source": {
+        "file": "e-text-020.txt",
+        "line": 18
+      }
+    },
+    {
+      "id": "bt_004",
+      "original": "净水器",
+      "category": "base_type",
+      "type": "item",
+      "translations": {
+        "nominative": "Водоочиститель",
+        "genitive": "Водоочистителя"
+      },
+      "source": {
+        "file": "e-text-025.txt",
+        "line": 22
+      }
+    },
+    {
+      "id": "bt_005",
+      "original": "制作图纸",
+      "category": "base_type",
+      "type": "item",
+      "translations": {
+        "nominative": "Чертёж",
+        "genitive": "Чертежа"
+      },
+      "source": {
+        "file": "e-text-030.txt",
+        "line": 15
+      }
+    },
+    {
+      "id": "bt_006",
+      "original": "黑曜石",
+      "category": "base_type",
+      "type": "resource",
+      "translations": {
+        "nominative": "Черный обсидиан",
+        "genitive": "Черного обсидиана"
+      },
+      "source": {
+        "file": "e-text-035.txt",
+        "line": 25
+      }
+    }
+  ]
+}
